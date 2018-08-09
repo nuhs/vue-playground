@@ -1,6 +1,6 @@
-# cloudin
+# Vue Playground
 
-> explore on soundcloud
+> Let's play!
 
 ## Build Setup
 
